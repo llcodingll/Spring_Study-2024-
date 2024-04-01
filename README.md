@@ -4,6 +4,7 @@
 # Study Information
 - 기간: 2024.02.15~
 - 진행방식
+  
   3일에 1번 20시-21시
   
   1회 2 Section
