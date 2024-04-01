@@ -2,8 +2,10 @@
 Spring 스터디
 
 ## ⭐ Study Information
-### 기간
-- 2024.02.15~
+- Spring 입문 - 김영한
+- Spring 기본 - 김영한
+- Spring MVC 1편 - 김영한
+- JPA 활용 1편 - 김영한
 
 ### 👥 Member
 | Name | GitHub | Role |
