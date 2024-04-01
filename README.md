@@ -5,7 +5,7 @@ Spring 스터디
 ### 기간
 - 2024.02.15~
 
-## 👥 Member
+### 👥 Member
 | Name | GitHub | Role |
 | --- | --- | --- |
 | 유윤지 | https://github.com/llcodingll | 리더 |
