@@ -1,5 +1,4 @@
 # Spring_Study-2024-
-Spring 스터디
 
 ## ⭐ Study Information
 ### 🏷 강의 목록
