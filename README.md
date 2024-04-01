@@ -12,7 +12,7 @@ Spring 스터디
 | Name | GitHub | Blog | Role |
 | --- | --- | --- | --- |
 | 유윤지 | https://github.com/llcodingll | https://ll-llwhkr.tistory.com/ | 리더 |
-| 변지영 | https://github.com/zzero-o | Blog | 멤버 |
+| 변지영 | https://github.com/zzero-o |  | 멤버 |
 | 백민정 | https://github.com/yangheeb | https://yangheeb.tistory.com/ | 멤버 |
 ---
 ## ✍ 1회차
