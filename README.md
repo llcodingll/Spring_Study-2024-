@@ -24,7 +24,7 @@ Spring 스터디
 - 1인 1 Section 발표
 - 비대면(구글미트)
   
-| Title | Content | Presenters |
+| Round | Content | Presenters |
 | --- | --- | --- |
 | 1st | 프로젝트 환경설정, 스프링 웹 개발 기초 | 유윤지, 백민정 |
 | 2nd | 회원 관리 예제(백엔드), 스프링 빈과 의존관계 | 변지영, 유윤지 |
