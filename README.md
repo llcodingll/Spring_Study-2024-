@@ -19,7 +19,7 @@ Spring 스터디
 | 백민정 | https://github.com/yangheeb | 멤버 |
 
 ## 1회차
-| Title | Content | Presenter |
+| Title | Content | Presenters |
 | --- | --- | --- |
 | 1st | 프로젝트 환경설정, 스프링 웹 개발 기초 | 유윤지, 백민정 |
 | 2nd | 회원 관리 예제(백엔드), 스프링 빈과 의존관계 | 변지영, 유윤지 |
