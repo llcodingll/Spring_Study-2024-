@@ -1,7 +1,7 @@
 # Spring_Study-2024-
 Spring 스터디
 
-# Study Information
+## Study Information
 ### 기간
 - 2024.02.15~
   
@@ -11,7 +11,7 @@ Spring 스터디
 - 1인 1 Section 발표
 - 비대면(구글미트)
 ---
-# 👥 Member
+## 👥 Member
 | Name | GitHub | Role |
 | --- | --- | --- |
 | 유윤지 | https://github.com/llcodingll | 리더 |
