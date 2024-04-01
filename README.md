@@ -9,11 +9,11 @@ Spring 스터디
 - JPA 활용 1편 - 김영한
 
 ### 👥 Member
-| Name | GitHub | Role |
-| --- | --- | --- |
-| 유윤지 | https://github.com/llcodingll | 리더 |
-| 변지영 | https://github.com/zzero-o | 멤버 |
-| 백민정 | https://github.com/yangheeb | 멤버 |
+| Name | GitHub | Blog | Role |
+| --- | --- | --- | --- |
+| 유윤지 | https://github.com/llcodingll | https://ll-llwhkr.tistory.com/ | 리더 |
+| 변지영 | https://github.com/zzero-o | Blog | 멤버 |
+| 백민정 | https://github.com/yangheeb | https://yangheeb.tistory.com/ | 멤버 |
 ---
 ## ✍ 1회차
 - 2024.02.15~03.29
