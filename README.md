@@ -13,7 +13,7 @@
   
   비대면(구글미트)
 ---
-# Member
+# 👥 Member
 | Name | GitHub | Role |
 | --- | --- | --- |
 | 유윤지 | https://github.com/llcodingll | 리더 |
