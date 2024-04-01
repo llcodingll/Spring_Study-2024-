@@ -13,3 +13,9 @@
   
   비대면(구글미트)
 ---
+# Member
+| Name | GitHub | Role |
+| --- | --- | --- |
+| 유윤지 | https://github.com/llcodingll | 리더 |
+| 변지영 | https://github.com/zzero-o | 멤버 |
+| 백민정 | https://github.com/yangheeb | 멤버 |
