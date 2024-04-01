@@ -14,7 +14,7 @@ Spring 스터디
 | 유윤지 | https://github.com/llcodingll | 리더 |
 | 변지영 | https://github.com/zzero-o | 멤버 |
 | 백민정 | https://github.com/yangheeb | 멤버 |
-
+---
 ## ✍ 1회차
 - 2024.02.15~03.29
 - 목표: 강의 전체 1회 수강 후, 전체적인 틀 이해하기
