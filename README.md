@@ -1,7 +1,7 @@
 # Spring_Study-2024-
 Spring 스터디
 
-## Study Information
+## ⭐ Study Information
 ### 기간
 - 2024.02.15~
   
